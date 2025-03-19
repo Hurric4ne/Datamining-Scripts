@@ -13,6 +13,8 @@
         "Inert Material Level (%)": "N/A",
         "Optimal Charge Window Size (%)": "N/A",
         "Resistance (%)": "N/A",
+        "Collection Throughput": 3.0,
+        "Collection Point Radius (m)": 2.0,
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -29,6 +31,8 @@
         "Inert Material Level (%)": 30.0,
         "Optimal Charge Window Size (%)": 40.0,
         "Resistance (%)": 25.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 5.000000074505806
     },
     {
@@ -45,6 +49,8 @@
         "Inert Material Level (%)": 40.0,
         "Optimal Charge Window Size (%)": 40.0,
         "Resistance (%)": 25.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 5.000000074505806
     },
     {
@@ -61,6 +67,8 @@
         "Inert Material Level (%)": 30.0,
         "Optimal Charge Window Size (%)": -60.0,
         "Resistance (%)": "N/A",
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -77,6 +85,8 @@
         "Inert Material Level (%)": 40.0,
         "Optimal Charge Window Size (%)": -60.0,
         "Resistance (%)": "N/A",
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 30.000001192092896
     },
     {
@@ -93,6 +103,8 @@
         "Inert Material Level (%)": "N/A",
         "Optimal Charge Window Size (%)": 40.0,
         "Resistance (%)": -40.0,
+        "Collection Throughput": 4.0,
+        "Collection Point Radius (m)": 1.0,
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -109,6 +121,8 @@
         "Inert Material Level (%)": 30.0,
         "Optimal Charge Window Size (%)": 60.0,
         "Resistance (%)": -30.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 5.000000074505806
     },
     {
@@ -125,6 +139,8 @@
         "Inert Material Level (%)": 40.0,
         "Optimal Charge Window Size (%)": 60.0,
         "Resistance (%)": -30.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 10.000000149011612
     },
     {
@@ -141,6 +157,8 @@
         "Inert Material Level (%)": "N/A",
         "Optimal Charge Window Size (%)": 40.0,
         "Resistance (%)": -40.0,
+        "Collection Throughput": 4.0,
+        "Collection Point Radius (m)": 1.0,
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -157,6 +175,8 @@
         "Inert Material Level (%)": 30.0,
         "Optimal Charge Window Size (%)": 20.0,
         "Resistance (%)": -45.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 15.000000596046448
     },
     {
@@ -173,6 +193,8 @@
         "Inert Material Level (%)": 40.0,
         "Optimal Charge Window Size (%)": 20.0,
         "Resistance (%)": -45.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -189,6 +211,8 @@
         "Inert Material Level (%)": "N/A",
         "Optimal Charge Window Size (%)": -40.0,
         "Resistance (%)": "N/A",
+        "Collection Throughput": 5.0,
+        "Collection Point Radius (m)": 1.0,
         "Throttle min (%)": 15.000000596046448
     },
     {
@@ -205,6 +229,8 @@
         "Inert Material Level (%)": 30.0,
         "Optimal Charge Window Size (%)": -40.0,
         "Resistance (%)": -30.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -221,6 +247,8 @@
         "Inert Material Level (%)": 40.0,
         "Optimal Charge Window Size (%)": -40.0,
         "Resistance (%)": -30.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 30.000001192092896
     },
     {
@@ -237,6 +265,8 @@
         "Inert Material Level (%)": 30.0,
         "Optimal Charge Window Size (%)": 20.0,
         "Resistance (%)": 10.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 20.000000298023224
     },
     {
@@ -253,6 +283,8 @@
         "Inert Material Level (%)": 40.0,
         "Optimal Charge Window Size (%)": 20.0,
         "Resistance (%)": 10.0,
+        "Collection Throughput": "N/A",
+        "Collection Point Radius (m)": "N/A",
         "Throttle min (%)": 30.000001192092896
     }
 ]

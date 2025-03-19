@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "AphoriteMineableRockFPS",
+        "Breakable Pieces": 10
+    },
+    {
+        "Name": "AphoriteMineableRockFPS_Asteroid",
+        "Breakable Pieces": 10
+    },
+    {
+        "Name": "AphoriteMineableRockFPS_Large",
+        "Breakable Pieces": 30
+    },
+    {
+        "Name": "DolivineMineableRockFPS",
+        "Breakable Pieces": 10
+    },
+    {
+        "Name": "DolivineMineableRockFPS_Large",
+        "Breakable Pieces": 30
+    },
+    {
+        "Name": "HadaniteMineableRockFPS",
+        "Breakable Pieces": 10
+    },
+    {
+        "Name": "HadaniteMineableRockFPS_Large",
+        "Breakable Pieces": 30
+    },
+    {
+        "Name": "JanaliteMineableRockFPS",
+        "Breakable Pieces": 10
+    }
+]

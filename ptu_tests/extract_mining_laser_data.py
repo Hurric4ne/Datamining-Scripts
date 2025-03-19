@@ -19,6 +19,8 @@ laser_instability_pattern = re.compile(r'<laserInstability [^>]*value="(-?\d+\.\
 optimal_charge_window_pattern = re.compile(r'<optimalChargeWindowSizeModifier [^>]*value="(-?\d+\.\d+)"')
 optimal_charge_rate_pattern = re.compile(r'<optimalChargeWindowRateModifier [^>]*value="(-?\d+\.\d+)"')
 resistance_modifier_pattern = re.compile(r'<resistanceModifier [^>]*value="(-?\d+\.\d+)"')
+collection_throughput_pattern = re.compile(r'collectionRate="(\d+\.\d+)"')
+collection_point_radius_pattern = re.compile(r'beamRadius="(\d+\.\d+)"')
 module_slot_pattern = re.compile(r'DisplayName="Sub_Item_Slot"')
 size_pattern = re.compile(r'\sSize="(\d+)"')
 
@@ -76,6 +78,12 @@ for filename in os.listdir(directory):
         resistance_modifier = resistance_modifier_pattern.search(content)
         resistanceModifier = float(resistance_modifier.group(1)) if resistance_modifier else "N/A"
 
+        # Extract the collection throughput + radius
+        collection_throughput = collection_throughput_pattern.search(content)
+        collectionThroughput = float(collection_throughput.group(1)) if collection_throughput else "N/A"
+        collection_point_radius = collection_point_radius_pattern.search(content)
+        collectionPointRadius = float(collection_point_radius.group(1)) if collection_point_radius else "N/A"
+
         # Extract the module slot amount
         module_slot = module_slot_pattern.findall(content)
         moduleSlots = len(module_slot) if module_slot else "N/A"
@@ -99,6 +107,8 @@ for filename in os.listdir(directory):
             "Inert Material Level (%)": filterModifier,
             "Optimal Charge Window Size (%)": optimalChargeWindow,
             "Resistance (%)": resistanceModifier,
+            "Collection Throughput": collectionThroughput,
+            "Collection Point Radius (m)": collectionPointRadius,
             "Throttle min (%)": minThrottle,
         })
 
