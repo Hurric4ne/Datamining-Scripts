@@ -22,7 +22,7 @@ optimal_charge_rate_pattern = re.compile(r'<optimalChargeWindowRateModifier [^>]
 resistance_modifier_pattern = re.compile(r'<resistanceModifier [^>]*value="(-?\d+\.\d+)"')
 collection_throughput_pattern = re.compile(r'collectionRate="(\d+\.\d+)"')
 collection_point_radius_pattern = re.compile(r'beamRadius="(\d+\.\d+)"')
-module_slot_pattern = re.compile(r'DisplayName="Sub_Item_Slot"')
+module_slot_pattern = re.compile(r'PortTags="miningConsumable Consumable\d+"')
 size_pattern = re.compile(r'\sSize="(\d+)"')
 
 # Iterate through all files in the directory
@@ -87,7 +87,7 @@ for filename in os.listdir(directory):
 
         # Extract the module slot amount
         module_slot = module_slot_pattern.findall(content)
-        moduleSlots = len(module_slot) if module_slot else "N/A"
+        moduleSlots = len(module_slot) if module_slot else 0
 
         # Extract the size
         size = size_pattern.search(content)
