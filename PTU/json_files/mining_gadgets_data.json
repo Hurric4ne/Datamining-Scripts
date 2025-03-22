@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Mining_Gadget_GRIN_OptiMax",
+        "Optimal Charge Window Size (%)": -30.0,
+        "Optimal Charge Window Rate (%)": "N/A",
+        "Laser Instability (%)": "N/A",
+        "Resistance (%)": -25.0,
+        "Cluster Modifier (%)": 60.0,
+        "Shatter Damage (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A"
+    },
+    {
+        "Name": "Mining_Gadget_GRIN_WaveShift",
+        "Optimal Charge Window Size (%)": 100.0,
+        "Optimal Charge Window Rate (%)": -30.0,
+        "Laser Instability (%)": -35.0,
+        "Resistance (%)": "N/A",
+        "Cluster Modifier (%)": "N/A",
+        "Shatter Damage (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A"
+    },
+    {
+        "Name": "Mining_Gadget_SHIN_Okunis",
+        "Optimal Charge Window Size (%)": 50.0,
+        "Optimal Charge Window Rate (%)": 100.0,
+        "Laser Instability (%)": "N/A",
+        "Resistance (%)": "N/A",
+        "Cluster Modifier (%)": -20.0,
+        "Shatter Damage (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A"
+    },
+    {
+        "Name": "Mining_Gadget_SHIN_Sabir",
+        "Optimal Charge Window Size (%)": 50.0,
+        "Optimal Charge Window Rate (%)": "N/A",
+        "Laser Instability (%)": 15.0,
+        "Resistance (%)": -50.0,
+        "Cluster Modifier (%)": "N/A",
+        "Shatter Damage (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A"
+    },
+    {
+        "Name": "Mining_Gadget_THCN_BoreMax",
+        "Optimal Charge Window Size (%)": "N/A",
+        "Optimal Charge Window Rate (%)": "N/A",
+        "Laser Instability (%)": -70.0,
+        "Resistance (%)": 10.0,
+        "Cluster Modifier (%)": 30.0,
+        "Shatter Damage (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A"
+    },
+    {
+        "Name": "Mining_Gadget_THCN_Stalwart",
+        "Optimal Charge Window Size (%)": -30.0,
+        "Optimal Charge Window Rate (%)": 50.0,
+        "Laser Instability (%)": -35.0,
+        "Resistance (%)": "N/A",
+        "Cluster Modifier (%)": 30.0,
+        "Shatter Damage (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A"
+    }
+]

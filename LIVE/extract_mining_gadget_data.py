@@ -3,7 +3,8 @@ import re
 import json
 
 # Specify the directory containing the files
-directory = "base_files/mining/gadgets"
+dirname = os.path.dirname(__file__)
+directory = os.path.join(dirname, "base_files/mining/gadgets")
 
 # Initialize the list to store the parsed data
 result = []
@@ -74,7 +75,7 @@ for filename in os.listdir(directory):
         })
 
 # Save the result to a JSON file
-output_filepath = "json_files/mining_gadgets_data.json"
+output_filepath = os.path.join(dirname, "json_files/mining_gadgets_data.json")
 
 
 with open(output_filepath, "w", encoding="utf-8") as json_file:
