@@ -414,5 +414,37 @@
         "Laser Instability (%)": "N/A",
         "Shatter Damage (%)": "N/A",
         "Clustering (%)": "N/A"
+    },
+    {
+        "Name": "ARGOGeo",
+        "Item Type": "VehicleMod",
+        "Optimal Charge Window Size (%)": "N/A",
+        "Mining Laser Power (%)": -84.99999940395355,
+        "Extraction Laser Power (%)": "N/A",
+        "Optimal Charge Rate (%)": "N/A",
+        "Inert Material Level (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A",
+        "Resistance (%)": "N/A",
+        "Duration (s)": "N/A",
+        "Uses": "N/A",
+        "Laser Instability (%)": "N/A",
+        "Shatter Damage (%)": "N/A",
+        "Clustering (%)": "N/A"
+    },
+    {
+        "Name": "ROCds",
+        "Item Type": "VehicleMod",
+        "Optimal Charge Window Size (%)": "N/A",
+        "Mining Laser Power (%)": "N/A",
+        "Extraction Laser Power (%)": "N/A",
+        "Optimal Charge Rate (%)": 20.0,
+        "Inert Material Level (%)": "N/A",
+        "Catastrophic Charge Rate (%)": "N/A",
+        "Resistance (%)": "N/A",
+        "Duration (s)": "N/A",
+        "Uses": "N/A",
+        "Laser Instability (%)": "N/A",
+        "Shatter Damage (%)": "N/A",
+        "Clustering (%)": "N/A"
     }
 ]

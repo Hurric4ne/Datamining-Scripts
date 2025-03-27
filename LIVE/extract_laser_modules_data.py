@@ -109,7 +109,6 @@ for filename in os.listdir(directory):
 output_filepath = os.path.join(dirname, "json_files/mining_modules_data.json")
 
 
-
 with open(output_filepath, "w", encoding="utf-8") as json_file:
     json.dump(result, json_file, indent=4)
 

@@ -1,0 +1,590 @@
+[
+    {
+        "Name": "cds_armor_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-70.0",
+        "Max Temp (C)": "100.0"
+    },
+    {
+        "Name": "cds_armor_heavy_core_01_01_concierge",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-70.0",
+        "Max Temp (C)": "100.0"
+    },
+    {
+        "Name": "cds_armor_heavy_core_01_02_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-70.0",
+        "Max Temp (C)": "100.0"
+    },
+    {
+        "Name": "cds_armor_heavy_core_01_iae2022_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-70.0",
+        "Max Temp (C)": "100.0"
+    },
+    {
+        "Name": "cds_armor_heavy_core_02_01_xenothreat",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_armor_heavy_core_02_03_xenothreat",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_armor_heavy_core_02_04_xenothreat",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_02",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_03",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_04",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_05",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_06",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_07",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_08",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_09",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_10",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_11",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_12",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_13",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_14",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_15",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_16",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_17",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_18",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_19",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_20",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_gld",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_hd_sec",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_01_irn",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_9tails_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "cds_legacy_armor_heavy_core_01_crus01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "heavyArmor_core_skelExt_test",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-70.0",
+        "Max Temp (C)": "100.0"
+    },
+    {
+        "Name": "mannequin_displayCore",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-70.0",
+        "Max Temp (C)": "100.0"
+    },
+    {
+        "Name": "outlaw_legacy_armor_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_armor_heavy_core_01_01_01_ai_exclusive",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_armor_heavy_core_01_01_13",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_armor_heavy_core_01_9tails_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_01_02_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_01_02_04",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_01_02_11",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_01_02_12",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_01_02_18",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_01_02_20",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_02_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_02_01_10",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "outlaw_legacy_heavy_armor_core_02_01_16",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "qrt_combat_heavy_core_02_02_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_combat_heavy_core_02_03_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_01_10",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_01_12",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_01_13",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_01_15",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_02_16",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "qrt_specialist_heavy_core_01_03_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_01_03",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_01_10",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_01_12",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_01_iae2022",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_02_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_03_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_03_04",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_03_11",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_03_12",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_03_18",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_03_20",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_9tails_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_01_crus01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-90.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_02_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-95.0",
+        "Max Temp (C)": "120.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_03_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-97.0",
+        "Max Temp (C)": "121.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_04_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "rrs_specialist_heavy_core_04_02_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-75.0",
+        "Max Temp (C)": "105.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_03",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_10",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_11",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_13",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_14",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_01_15",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "slaver_armor_heavy_core_01_9tails_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-72.0",
+        "Max Temp (C)": "102.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_03",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_04",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_05",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_06",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_10",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_10blue",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_11",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_13",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_18",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_19",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_20",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_01_01_gld",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-77.0",
+        "Max Temp (C)": "107.0"
+    },
+    {
+        "Name": "srvl_armor_heavy_core_02_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-85.0",
+        "Max Temp (C)": "115.0"
+    },
+    {
+        "Name": "thp_jacket_01_01_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    },
+    {
+        "Name": "thp_jacket_01_02_01",
+        "Volume (mSCU)": "55000",
+        "Min Temp (C)": "-80.0",
+        "Max Temp (C)": "110.0"
+    }
+]

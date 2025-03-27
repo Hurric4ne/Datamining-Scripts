@@ -1,34 +1,54 @@
 [
     {
-        "Name": "AphoriteMineableRockFPS",
-        "Breakable Pieces": 10
+        "Name": "MineableRock_FPS_Aphorite",
+        "Breakable Pieces": 8
     },
     {
-        "Name": "AphoriteMineableRockFPS_Asteroid",
-        "Breakable Pieces": 10
+        "Name": "MineableRock_FPS_Carinite",
+        "Breakable Pieces": 2
     },
     {
-        "Name": "AphoriteMineableRockFPS_Large",
-        "Breakable Pieces": 30
+        "Name": "MineableRock_FPS_Carinite_large",
+        "Breakable Pieces": 3
     },
     {
-        "Name": "DolivineMineableRockFPS",
-        "Breakable Pieces": 10
+        "Name": "MineableRock_FPS_Carinite_small",
+        "Breakable Pieces": 1
     },
     {
-        "Name": "DolivineMineableRockFPS_Large",
-        "Breakable Pieces": 30
+        "Name": "MineableRock_FPS_Dolivine",
+        "Breakable Pieces": 8
     },
     {
-        "Name": "HadaniteMineableRockFPS",
-        "Breakable Pieces": 10
+        "Name": "MineableRock_FPS_Hadanite",
+        "Breakable Pieces": 5
     },
     {
-        "Name": "HadaniteMineableRockFPS_Large",
-        "Breakable Pieces": 30
+        "Name": "MineableRock_FPS_Jaclium",
+        "Breakable Pieces": 3
     },
     {
-        "Name": "JanaliteMineableRockFPS",
-        "Breakable Pieces": 10
+        "Name": "MineableRock_FPS_Jaclium_large",
+        "Breakable Pieces": 5
+    },
+    {
+        "Name": "MineableRock_FPS_Jaclium_small",
+        "Breakable Pieces": 1
+    },
+    {
+        "Name": "MineableRock_FPS_Janalite",
+        "Breakable Pieces": 5
+    },
+    {
+        "Name": "MineableRock_FPS_Saldynium",
+        "Breakable Pieces": 3
+    },
+    {
+        "Name": "MineableRock_FPS_Saldynium_large",
+        "Breakable Pieces": 5
+    },
+    {
+        "Name": "MineableRock_FPS_Saldynium_small",
+        "Breakable Pieces": 1
     }
 ]
